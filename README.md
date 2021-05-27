@@ -2,7 +2,7 @@
 
 - I live in Brazil, Northeast 🌤
 - I am a student of systems analysis and development in Faculdade Senac of Pernambuco with Porto Digital.
-<img align="right" src="https://www.lolpro.com.br/wp-content/uploads/2015/01/voli.gif" height="150px" width="180px">
+<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ff427a-2c2f-4e9c-b789-07f19ee47ccf/d859gf1-726238f8-dfdd-4654-919f-f142588f3fef.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxZmY0MjdhLTJjMmYtNGU5Yy1iNzg5LTA3ZjE5ZWU0N2NjZlwvZDg1OWdmMS03MjYyMzhmOC1kZmRkLTQ2NTQtOTE5Zi1mMTQyNTg4ZjNmZWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WEq045NDkBWsxk6Az6LnikzT8ZytHcBZJnwLAJCN31k" height="150px" width="180px">
 <h3 align="left"> 🗺 Connect with me: </h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/williams-nascimento-developer/" target="_blank">
@@ -25,6 +25,6 @@ style="max-width=100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" style="max-width=100%;"></img>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=WilliamsNasci&show_icons=true" alt="WilliamsNasci"/>
 </p>
