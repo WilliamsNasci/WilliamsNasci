@@ -1,4 +1,5 @@
-<h1 align="center">  Hello, I'm José Williams</h1>
+<h1 align="center"> <img heigh="40" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" /> Hello, I'm José Williams</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamsNasci&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamsNasci" /> </p>  
 
 - I live in Brazil, Northeast 🌤
 - I am a student of systems analysis and development in Faculdade Senac of Pernambuco with Porto Digital.
