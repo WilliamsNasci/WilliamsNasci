@@ -28,5 +28,5 @@ style="max-width=100%;">
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=WilliamsNasci&show_icons=true&theme=dark" alt="WilliamsNasci"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamsNasci&layout=compact&langs_count=7&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamsNasci&layout=compact&langs_count=7&theme=dark"/>
 </p>
