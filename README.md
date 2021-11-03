@@ -3,7 +3,6 @@
 
 - I live in Brazil, Northeast 🌤
 - I am a student of systems analysis and development in Faculdade Senac of Pernambuco with Porto Digital.
-<img align="right" src="https://media1.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif" height="150px" width="180px">
 
 <h3 align="left"> 📝 My Skills: </h1>
 
