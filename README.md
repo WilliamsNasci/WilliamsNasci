@@ -15,13 +15,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="max-width=100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="max-width=100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" style="max-width=100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="csharp" width="30" height="30" style="max-width=100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="csharp" width="30" height="30" style="max-width=100%;"></img>
 </p>
 
 <details>
   <summary>Databases</summary>
    
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+   ![My SQL](https://img.shields.io/badge/My%20SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
   
   </details>
   
