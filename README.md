@@ -1,4 +1,7 @@
-<h1 align="center"> <img heigh="40" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" /> Hello, I'm José Williams</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088cc&height=150&section=header&text=José Williams Nascimento&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+José+Williams;I'm+19+years+old;I+from+Brasília,+DF;I+study+software+engineering+at+Ampli;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamsNasci&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamsNasci" /> </p>  
 
 <div align="left"> 
@@ -47,4 +50,7 @@
   <a href="https://www.linkedin.com/in/williams-nascimento-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/williams_nasci/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+  
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088cc&height=120&section=footer"/>
 
