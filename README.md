@@ -15,6 +15,7 @@
 </p>
 
 <details>
+  <br>
   <summary>Databases</summary>
    
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -23,10 +24,12 @@
   </details>
   
   <details>
+  <br>
   <summary>Frameworks</summary>
    
    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black)
    ![Angular](https://img.shields.io/badge/angular-%23000.svg?style=for-the-badge&logo=angular&logoColor=red)
+   ![Quarkus](https://img.shields.io/badge/quarkus-%23000.svg?style=for-the-badge&logo=quarkus&logoColor=cian)
   
   </details>
 
