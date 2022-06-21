@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+José+Williams;I'm+19+years+old;I+from+Recife,+PE;I+am+a+software+engineer+at+Di2win;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamsNasci&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamsNasci" /> </p>  
 
-<h3 align="left"> 📝 My Skills: </h1>
+<h3 align="center"> 📝 My Skills: </h1>
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" style="max-width=100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" style="max-width=100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="max-width=100%;"></img>
