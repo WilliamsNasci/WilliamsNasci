@@ -1,14 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088cc&height=150&section=header&text=José Williams Nascimento&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+José+Williams;I'm+19+years+old;I+from+Brasília,+DF;I+study+software+engineering+at+Ampli;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+José+Williams;I'm+19+years+old;I+from+Recife,+PE;I+am+a+software+engineering+at+Di2win;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamsNasci&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamsNasci" /> </p>  
-
-<div align="left"> 
-- I live in Brazil, Northeast 🌤
-  </br>
-- I am a student of systems analysis and development in Faculdade Senac of Pernambuco with Porto Digital.
-</div>
 
 <h3 align="left"> 📝 My Skills: </h1>
 
